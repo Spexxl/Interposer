@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "supports": "windows",
+  "dependencies": [
+    "detours",
+    "directx-headers",
+    "quickdllproxy",
+    "spdlog",
+    "vulkan"
+  ],
+  "builtin-baseline": "53bef8994c541b6561884a8395ea35715ece75db"
+}
